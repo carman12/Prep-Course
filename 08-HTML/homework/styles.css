@@ -1,0 +1,18 @@
+thirdDiv{
+    color:aqua;
+    height: 600px;
+    width: 500px;
+    background-color: beige;
+    padding: 50px;
+    border: 1px solid black;
+}
+divClass{
+    color: brown;
+}
+img{
+    width: 400px;
+}
+spanId{
+    font-size: 18px;
+    margin: 50px;
+}
